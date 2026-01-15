@@ -1,0 +1,21 @@
+{
+  "name": "playlist-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "open": "^11.0.0",
+    "querystring": "^0.2.1",
+    "yt-dlp-exec": "^1.0.2",
+    "sanitize-filename": "^1.6.3"
+  }
+}
